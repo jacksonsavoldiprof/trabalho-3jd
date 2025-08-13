@@ -1,0 +1,6 @@
+Pesquise sobre provedores de serviço de hospedagem online de sites e bancos de dados.
+para fazer deploy do nosso site e banco de dados online, precisamos escolher um provedor de hospedagem que suporte as tecnologias que vamos usar.
+para o nosso projeto. 
+
+Banco dados 
+e backend em python ou js 
